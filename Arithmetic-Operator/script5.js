@@ -1,0 +1,5 @@
+function power(){
+  let result = 2**3;
+  console.log(result);
+}
+power();
